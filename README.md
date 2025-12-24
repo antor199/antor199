@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋 Hi, I'm Antor Barman
 
-<!--
-**antor199/antor199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="./pixel-dev-room.svg" alt="Pixel Developer Room Animation" />
+</p>
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 💻 Frontend Developer
+- ⚛️ React | Next.js
+- 🎨 Love UI Design & Pixel Art
+- 🌙 Night Owl Coder
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+⭐ Feel free to explore my repositories!
